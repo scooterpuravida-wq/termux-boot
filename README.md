@@ -1,6 +1,8 @@
 # Termux:Boot
 
-[![Build status](https://github.com/termux/termux-boot/workflows/Build/badge.svg)](https://github.com/termux/termux-boot/actions)
+[![Build status](
+)](
+)
 [![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
 
 A [Termux](https://termux.dev) add-on app to run programs at boot.
